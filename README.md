@@ -1,14 +1,13 @@
 
 <h3 align="center">✊ Tech Stack ✊</h3>
 
-<p align="center">프론트엔드 <br>
+<p align="center">📘front-end📘<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 </p>
 
-<p align="center">
-백엔드 <br>
+<p align="center">📕back-end📕<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white">
 <img src="https://img.shields.io/badge/TypeORM-262627?style=flat-square&logo=Typeform&logoColor=white">
@@ -29,6 +28,6 @@
   </a>
   <a href="mailto:anrl8913@naver.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/anrl8913@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
