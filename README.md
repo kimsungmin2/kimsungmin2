@@ -16,6 +16,3 @@ I'm a backend developer specializing in Node.js, TypeScript, and JavaScript, foc
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsungmin2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsungmin2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Contact Me
-
-- Email: anrl8913@naver.com
