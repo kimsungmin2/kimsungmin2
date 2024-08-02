@@ -9,12 +9,12 @@ I am currently developing a game server using Node.js. My ultimate goal is to ma
 ## 🚀 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 ## 📊 GitHub Stats
 
