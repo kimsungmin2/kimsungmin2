@@ -4,7 +4,7 @@
 
 I'm a backend developer specializing in Node.js, TypeScript, and JavaScript, focused on optimization.
 
-I am currently developing a game server using Node.js. My ultimate goal is to manage everything from planning to deployment. The stacks I am proficient in are NestJS and Express. Although I am not an expert yet, I am diligently studying React and React Native.
+I am currently developing a game server using Node.js. My ultimate goal is to manage everything from planning to deployment. The stacks I am proficient in are NestJS and Express. Although I am not an expert yet, I am diligently studying Unity.
 
 ## 🚀 Technologies & Tools
 
@@ -13,8 +13,6 @@ I am currently developing a game server using Node.js. My ultimate goal is to ma
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
 
 ## 📊 GitHub Stats
